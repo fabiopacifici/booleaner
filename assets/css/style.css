@@ -1,0 +1,18 @@
+:root{
+    --bool-black: #000;
+    --bool-white: #fff;
+    --bool-primary: #4ea0ff;
+    --bool-secondary: #1fa9e5;
+    --bool-secondary-light: #b1e4f2;
+    --bool-light: #808080;
+
+}
+
+/* #region Utility Classes */
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+
+/* #endregion Utility Classes */
