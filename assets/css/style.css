@@ -8,6 +8,10 @@
 
 }
 
+body {
+    margin: 0;
+}
+
 /* #region Utility Classes */
 .container {
     width: 85%;
@@ -16,3 +20,20 @@
 
 
 /* #endregion Utility Classes */
+
+
+/* #region Header */
+
+#app_header {
+    background-color: var(--bool-primary);
+    background-image: url('../img/pattern.png');
+    background-size: 300px;
+
+}
+
+.logo {
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+
+/* #endregion Header */
